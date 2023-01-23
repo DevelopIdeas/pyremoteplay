@@ -1,7 +1,6 @@
 # Xbox 360 Map
 
 # D-Pad buttons are mapped to hat
-
 button:
     0: CROSS
     1: CIRCLE
@@ -11,9 +10,9 @@ button:
     5: R1
     6: SHARE
     7: OPTIONS
-    8: L3
-    9: R3
-    10: PS
+    8: PS
+    9: L3
+    10: R3
 axis:
     0: LEFT_X
     1: LEFT_Y
@@ -22,7 +21,8 @@ axis:
     4: RIGHT_Y
     5: R2
 hat:
-    left: LEFT
-    right: RIGHT
-    down: DOWN
-    up: UP
+    0:
+      left: LEFT
+      right: RIGHT
+      down: DOWN
+      up: UP
